@@ -1,1 +1,1 @@
-print(sc)
+from pyspark import SparkContext
